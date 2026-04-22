@@ -1,3 +1,4 @@
+from utils import books
 # ^ SHOW BOOKS
 def show_books():
     if len(books) == 0:
