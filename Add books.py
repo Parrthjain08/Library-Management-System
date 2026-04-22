@@ -1,6 +1,3 @@
-books={}
-issued_books={}
-
  # ^ Add Books
 def add_books():
     name=input("Enter the book name: ")
